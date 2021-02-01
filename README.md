@@ -1,5 +1,5 @@
 # Chess
-<p>This is a typical game of chess with simple and unique chessman icons. Click <a href="https://github.com/ReubenBeeler/Chess/Chess.jar?raw=true">here</a> to download the jar. Also, here a few tips:</p>
+<p>This is a typical game of chess with simple and unique chessman icons. Click <a href="https://github.com/ReubenBeeler/Chess/blob/main/Chess.jar?raw=true">here</a> to download the jar. Also, here a few tips:</p>
 <ul>
   <li>Left keypad button for undo</li>
   <li>Right keypad button for redo</li>
