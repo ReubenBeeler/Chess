@@ -3,7 +3,7 @@
 <ul>
   <li>Left keypad button for undo</li>
   <li>Right keypad button for redo</li>
-  <li>Use mouse click to view acceptable locations and move pieces. No drag & drop necessary</li>
+  <li>Mouse click to view acceptable locations and move pieces. No drag & drop necessary</li>
   <li>Local games only</li>
   <li>Don't lose</li>
 </ul>
