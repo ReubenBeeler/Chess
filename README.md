@@ -17,10 +17,3 @@
   <li>Converting a pawn to a chessman of your choice upon reaching the other side</li>
   <li>Stalemate after 3 repeated moves on each side</li>
 </ul>
-
-<p>Recent Updates</p>
-<ul>
-  <li>Basic game logic and chessman movement</li>
-  <li>The game uploaded and works properly :)</li>
-  <li>Added castling</li>
-</ul>
